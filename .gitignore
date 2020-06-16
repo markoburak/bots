@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 #hide TOKEN and constants in config file
+config.py
 
 
 # C extensions
